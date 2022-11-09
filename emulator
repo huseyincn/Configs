@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/home/usern/Android/Sdk/emulator/emulator-original $@ -accel on -feature -Vulkan 
